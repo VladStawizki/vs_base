@@ -1,0 +1,16 @@
+{
+    "name": "VLST/vs_base",
+    "type": "typo3-cms-extension",
+    "description": "Add default Configuration for TYPO3 Project",
+    "homepage": "https://github.com/moonCrawler/vs_base",
+    "license": ["GPL-2.0+"],
+    "keywords": ["TYPO3 CMS"],
+    "support": {
+        "issues": "https://github.com/moonCrawler/vs_base/issues"
+    },
+    "version": "1.0.0",
+
+    "require": {
+      "composer/installers": "*"
+    }
+}
