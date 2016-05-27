@@ -1,6 +1,6 @@
 <?php
 $EM_CONF[$_EXTKEY] = array(
-    'title' => 'Project base_convert',
+    'title' => 'Project Base',
     'description' => 'Add default Configuration for TYPO3 Project',
     'category' => 'admin',
     'state' => 'stable',
